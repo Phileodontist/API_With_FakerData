@@ -28,12 +28,11 @@ def readme():
 				<h1>README</h1>
 				<hr/>
 				<h2>Statement of Purpose</h2>
-				<div style="margin-left:30px">
-					<p style="font-size:20px">
+				<div style="margin-left:30px; font-size:20px">
+					<p>
 						This project serves as an exercise in using the Flask framework.<br/>
 						Using simulated data from the Faker Library, this project demonstrates<br/>
-						the ability to use Flask to access data from a mysql database as well
-						as from AWS S3<br/> via the following endpoints:
+						the ability to use Flask to access data from a mysql database via the following endpoints:
 					</p>
 					<p><b>Base URL: http://127.0.0.1:5000/</b></p>
 					<ul>
